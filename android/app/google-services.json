@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "330744186242",
+    "project_id": "uol-ems",
+    "storage_bucket": "uol-ems.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330744186242:android:f1dfed068b8d610fb8fb9b",
+        "android_client_info": {
+          "package_name": "com.example.uol_ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330744186242-p1503sto72jalvm02ch203irtjj9bbf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uol_ems",
+            "certificate_hash": "4411ad054d0871b2e9774766394ee9cd5e72b041"
+          }
+        },
+        {
+          "client_id": "330744186242-q8pmd3h3dsiq27divuvbpprj1gst48gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HtPvs-rY4wbaD8tsvfc2Lr2L3k2ZLdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330744186242-q8pmd3h3dsiq27divuvbpprj1gst48gn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330744186242-b2emb45m0sacuesrv8rtf4hmia0b7llk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uolEms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
