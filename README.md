@@ -91,3 +91,11 @@ Payments: Add Stripe/EasyPaisa for paid events.
 AI Chatbot: A dedicated assistant for student queries. 
 
 Analytics: Graphs for Admins to see registration trends. 
+
+App Screenshots are here 
+![Image](https://github.com/user-attachments/assets/217ad8dd-33f7-4743-ad1d-a82544a611b8)
+![Image](https://github.com/user-attachments/assets/fefd0caf-f30f-4912-a044-945f070ddbde)
+![Image](https://github.com/user-attachments/assets/ef13f721-c076-4fbd-af4c-b07e477c5afb)
+![Image](https://github.com/user-attachments/assets/777a8e57-e022-46db-a87b-76849434a8c8)
+![Image](https://github.com/user-attachments/assets/51018193-81e6-4884-91cb-45e385d088fe)
+![Image](https://github.com/user-attachments/assets/f2157c0e-f73b-458a-8dcf-ee3e8d3b131a)
